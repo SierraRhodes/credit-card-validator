@@ -1,6 +1,6 @@
 Describe: creditNum() 
 
-Test: "It shouldd double the number"
+Test: "It should double the number"
 Code:
 const numbers = [2,3,4,5,6];
 Expected Output: [4,6,8,10,12]
